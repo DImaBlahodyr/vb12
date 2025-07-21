@@ -1,4 +1,5 @@
-@import 'reset.css';
+@import url('reset.css');
+@import url('components.css');
 
 /* ------ -------- -------- */
 
@@ -89,10 +90,6 @@ body {
     padding-inline: 0.875rem;
   }
 }
-
-/* ------ -------- -------- */
-
-@import 'components.css';
 
 /* ------ -------- -------- */
 .header {
